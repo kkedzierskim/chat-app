@@ -1,4 +1,4 @@
-# CurrencyApp
+# ChatApp
 
 A simple group chat application. The application is being developed to provide new functionalities
 
